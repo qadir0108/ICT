@@ -4,7 +4,7 @@
  For students to understand Application of Information and Communication Technologies
 
 ## Book
-Computer Fundamentals by Pradeep K. Sinha and Priti Sinha
+[Computer Fundamentals](Computer%20Fundamentals%20P.K%20Sinha.pdf) by Pradeep K. Sinha and Priti Sinha
 
 ## Course Outline
 - [Chapter # 1](Chapter%2001-Introduction.pdf)
