@@ -1,4 +1,4 @@
-[![BZU](https://bzu.edu.pk/images/logo1.png)](https://www.bzu.edu.pk)
+[![BZU](https://www.bzu.edu.pk/assets/images/logo.png)](https://www.bzu.edu.pk)
 
 # ICT
  For students to understand Application of Information and Communication Technologies
